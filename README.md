@@ -11,6 +11,8 @@ https://docs.google.com/document/d/1jd1MmR5Facb68fg5wlbZ4C-fXK8r997pvgzRcOIHWV0/
 #image upload,file upload,crud, select,value ,ngvalue
 https://stackblitz.com/edit/github-fcfdpr-c9it76?file=README.md
 
+#nGSelect
+
 https://stackblitz.com/edit/github-hxtk3q-zn7dpl?file=README.md
 
 https://stackblitz.com/edit/github-thp9n1-q6ro6q?file=src/app/formbuilder/formbuilder.component.html
