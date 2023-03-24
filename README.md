@@ -25,7 +25,7 @@ https://stackblitz.com/edit/github-hxtk3q-zn7dpl?file=README.md
 
 https://stackblitz.com/edit/github-thp9n1-q6ro6q?file=src/app/formbuilder/formbuilder.component.html
 
-
-https://stackblitz.com/edit/github-qbw9zz?file=README.md
+#Scroll to invalid field form,copy text,tooltip directive,
+Checkbox with parent and child
 
 
