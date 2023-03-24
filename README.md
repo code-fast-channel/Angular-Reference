@@ -15,6 +15,8 @@ https://stackblitz.com/edit/github-fcfdpr-c9it76?file=README.md
 
 https://stackblitz.com/edit/github-hxtk3q-zn7dpl?file=README.md
 
+#Reactive form - formcontrol,formbuilder, formGroup
+
 https://stackblitz.com/edit/github-thp9n1-q6ro6q?file=src/app/formbuilder/formbuilder.component.html
 
 
