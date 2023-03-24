@@ -8,7 +8,7 @@ https://docs.google.com/document/d/1R7SQDyMtMm4XJ31HsFjdrGy87PXSHpe0x9pkESTxTl8/
 #Html-Css
 
 https://docs.google.com/document/d/1jd1MmR5Facb68fg5wlbZ4C-fXK8r997pvgzRcOIHWV0/edit?usp=sharing_eip_se_dm&ts=630cec3
-
+#image upload,file upload,crud, select,value ,ngvalue
 https://stackblitz.com/edit/github-fcfdpr-c9it76?file=README.md
 
 https://stackblitz.com/edit/github-hxtk3q-zn7dpl?file=README.md
