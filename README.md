@@ -19,6 +19,9 @@ https://stackblitz.com/edit/github-fcfdpr-c9it76?file=README.md
 
 https://stackblitz.com/edit/github-zfjwhc-yfqbqt?file=README.md
 
+#ngb Modal popup
+https://stackblitz.com/edit/angular-enmups?file=src%2Fapp%2Fapp.module.ts,src%2Fapp%2Fapp.component.html,src%2Fapp%2Fapp.component.ts,src%2Fapp%2Fsimple-modal%2Fsimple-modal.component.html,src%2Fapp%2Fsimple-modal%2Fsimple-modal.component.ts,src%2Findex.html,src%2Fapp%2Fproducts.ts
+
 #nGSelect
 
 https://stackblitz.com/edit/github-hxtk3q-zn7dpl?file=README.md
