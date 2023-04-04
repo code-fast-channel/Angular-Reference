@@ -33,3 +33,4 @@ Checkbox with parent and child,form validation add and remove,custom validation
 https://stackblitz.com/edit/github-nxkw7d-tsfk8i?file=README.md
 
 
+https://docs.google.com/document/d/1J2ENDSLXryK_HVSIWK66_b0VyfJ6geK40wHmYptFP7A/edit?usp=drivesdk
