@@ -35,5 +35,7 @@ Checkbox with parent and child,form validation add and remove,custom validation
 
 https://stackblitz.com/edit/github-nxkw7d-tsfk8i?file=README.md
 
+#parent with child checkbox
+https://jake.stackblitz.com/edit/angular-suq1tf?file=src%2Fapp%2Fapp.component.ts,src%2Fapp%2Fapp.component.html
 
 https://docs.google.com/document/d/1J2ENDSLXryK_HVSIWK66_b0VyfJ6geK40wHmYptFP7A/edit?usp=drivesdk
