@@ -31,8 +31,7 @@ https://stackblitz.com/edit/github-hxtk3q-zn7dpl?file=README.md
 https://stackblitz.com/edit/github-thp9n1-q6ro6q?file=src/app/formbuilder/formbuilder.component.html
 
 #Scroll to invalid field form,copy text,tooltip directive,
-Checkbox with parent and child,form validation add and remove,custom validation,Multiple level checkbox with parent data set value,Multiple level checkbox with parent data,![Uploading image.png…]()
-
+Checkbox with parent and child,form validation add and remove,custom validation,Multiple level checkbox with parent data set value,Multiple level checkbox with parent data,
 https://stackblitz.com/edit/github-cfbvub
 
 #parent with child checkbox
