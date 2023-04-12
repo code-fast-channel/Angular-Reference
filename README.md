@@ -36,7 +36,7 @@ Checkbox with parent and child,form validation add and remove,custom validation,
 https://stackblitz.com/edit/github-1chrr7?file=README.md
 
 
-#parent with child checkbox
+#parent with child checkboxes
 
 https://jake.stackblitz.com/edit/angular-suq1tf?file=src%2Fapp%2Fapp.component.ts,src%2Fapp%2Fapp.component.html
 
