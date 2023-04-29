@@ -40,6 +40,6 @@ https://stackblitz.com/edit/github-1chrr7?file=README.md
 
 https://jake.stackblitz.com/edit/angular-suq1tf?file=src%2Fapp%2Fapp.component.ts,src%2Fapp%2Fapp.component.html
 
-
+https://stackblitz.com/edit/angular-basic-tutorial-3mryo1?file=app%2Fhome%2Fhome.component.html,app%2Fapp.component.html,app%2Fhome%2Freadme
 
 https://docs.google.com/document/d/1J2ENDSLXryK_HVSIWK66_b0VyfJ6geK40wHmYptFP7A/edit?usp=drivesdk
